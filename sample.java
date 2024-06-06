@@ -1,2 +1,10 @@
-#my second file to my repo
-#java code goes here
+// my jenkins sample java file
+class  helloWorld 
+{
+  public static void main(String []args)
+  {
+    system.out.println("Java sample code that runs from Jenkins.");
+  }
+};
+//execute the java file today with the build step
+// this is th demo before adding the build step.
