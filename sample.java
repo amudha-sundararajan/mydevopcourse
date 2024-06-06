@@ -1,5 +1,5 @@
 // my jenkins sample java file
-class  helloWorld 
+class  HelloWorld 
 {
   public static void main(String []args)
   {
