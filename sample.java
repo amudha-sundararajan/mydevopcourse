@@ -3,7 +3,7 @@ class  helloWorld
 {
   public static void main(String []args)
   {
-    system.out.println("Java sample code that runs from Jenkins.");
+    System.out.println("Java sample code that runs from Jenkins.");
   }
 };
 //execute the java file today with the build step
